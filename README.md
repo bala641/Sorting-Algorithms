@@ -48,9 +48,10 @@ print(num)
 ```
 
 ## Output:
-![image](https://github.com/bala23005271/Sorting-Algorithms/assets/155039753/c60b847b-f2ac-4046-89ac-b607ab06dfea)
+<img width="1470" height="881" alt="image" src="https://github.com/user-attachments/assets/e2a1162e-76f3-4829-a74f-f9aa40f36c74" />
 
-![image](https://github.com/bala23005271/Sorting-Algorithms/assets/155039753/39603d56-6518-4baa-bc3b-9f23b4237b35)
+<img width="1515" height="935" alt="image" src="https://github.com/user-attachments/assets/88931f00-f8c6-4d01-83a1-2b19e8d2532e" />
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
